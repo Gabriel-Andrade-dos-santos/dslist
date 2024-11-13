@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.devandrade.dslist.dto.GameDTO;
 import com.devandrade.dslist.dto.GameMinDTO;
-import com.devandrade.dslist.entities.Game;
+
 import com.devandrade.dslist.services.GameService;
 
 @RestController
